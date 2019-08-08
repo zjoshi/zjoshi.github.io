@@ -29,6 +29,8 @@ header {
 	width: 100%;
 	padding: 0;
 	margin: 0px;
+	max-width: 5000px !important;
+
 }
 
 section {
@@ -226,6 +228,7 @@ a:hover {
 	bottom: 10%;
 	position: absolute;
 	height: 100%;
+	width: 80%;
 
 }
 
@@ -335,9 +338,6 @@ a:hover {
 		border-bottom-left-radius: 8px;
 		border-bottom-right-radius: 8px;
 	}
-	.skills-list-item:hover {
-		color: #89d6d3;
-	}
 
 
 
@@ -444,7 +444,7 @@ a:hover {
 
 }
 .nav.nav-pills {
-	margin-left: 10px;
+	margin-left: 50px;
 	margin-top: 5px;
 }
 
@@ -644,6 +644,13 @@ a:hover {
 	color: white !important;
 }
 
+.nGY2Icon-ngy2_chevron_right3 {
+	color: white !important;
+}
+
+.nGY2Icon-ngy2_chevron_left3 {
+	color: white !important;
+}
 
 /*blog
 -------------------------------------------------------------*/
