@@ -695,3 +695,10 @@ a:hover {
    	border-top-right-radius: 4px;
   }
 }
+
+@media screen and (max-width: 480px) {
+	#selfie {
+		width: 100px;
+		height: 100px;
+	}
+}
